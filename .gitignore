@@ -1,0 +1,6 @@
+**/.idea
+**/.gradle
+**/build
+**/.dart_tool
+**/*.iml
+**/*.g.dart
